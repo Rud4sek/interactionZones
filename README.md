@@ -1,4 +1,4 @@
-# interactionzones v1.0
+# interactionzones v1.1
 
 Documentation: https://rudasek.vercel.app/roblox/interactions
 
